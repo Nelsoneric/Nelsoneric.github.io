@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+.great{
+	font-size: 23px!important;
+	font-weight: 20px!important;
+	height: 400px!important;
+	width: 70%!important;
+	background-color: black!important;
+	color: white;
+	opacity: 0.5;
+	margin-top:-300px!important;
+	float:left;
+	border: 2px solid red;
+  border-radius: 10px;
+	padding-top: 200px!important;
+
+		
+	
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+.brand-logoi{
+	width:50%;
+	float: left;
+	line-height: 30px;
+}
+im {
+	
+	max-width: 100%!important;
+	height: 200px!important;
+	background:lightblue!important;
+	/*background: radial-gradient(white 30%, lightblue 50%)!important;*/
+	
+
+	
+}
+.count{
+	
+/*	width: 50%!important;*/
+}
